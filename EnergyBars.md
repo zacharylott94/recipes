@@ -4,22 +4,22 @@ ___
 ## Ingredients
 These will be converted into weights later, when I measure out their volume and record their weights.
 
-* 3.75 cups **old-fashioned oats**
-* 6 tablespoons **wheat germ**
-* 1.5 cups **peanut butter**
-* 3/4 cup **corn syrup**
-* 1/4 cup **molasses**
-* 3 teaspoons **vanilla extract**
-* .75 teaspoon **kosher salt**
-* 3/4 cup **pecans**
-* 1/4 cup **almonds**
-* 1/2 cup **semi-sweet mini chocolate chips**
+* 400g **old-fashioned oats**
+* 45g **wheat germ**
+* 1g **kosher salt**
+* 65g **pecans**
+* 30g **almonds**
+* 115g **semi-sweet mini chocolate chips**
+* 115g **corn syrup**
+* 40g **molasses**
+* 11g **vanilla extract**
+* 375g **peanut butter**
 
 ## Equipment
 * Large wooden spoon
 * Large mixing bowl
 * Rolling pin
-* Bench scraper
+* Knife
 * Parchment paper
 * Baking sheet
 
@@ -32,9 +32,10 @@ These will be converted into weights later, when I measure out their volume and 
     * pecans
     * almonds
     * chocolate chips
-2. Evenly pour syrup and vanilla extract over dry ingredients
-3. Put peanut butter into the mixing bowl and thoroughly combine
+2. Evenly pour syrup, molasses, and vanilla extract over dry ingredients
+3. Add peanut butter; thoroughly combine all ingredients
 4. Place parchment paper onto a baking sheet, scrape contents of mixing bowl onto the parchment paper, then place another sheet of parchment paper on top
-5. Roll out mixture evenly as thick or thin as desired, and place baking sheet into the fridge to firm the mixture
-6. Cut the mixture into bars with the bench scraper, then use the scraper to pick up and place bars into a storage container
-7. Refridgerate and enjoy
+5. Roll out mixture evenly to desired thickness
+6. Place baking sheet into the fridge to firm the mixture
+7. Cut the mixture into bars; place bars into a storage container
+8. Refrigerate and enjoy
