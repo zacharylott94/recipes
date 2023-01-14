@@ -2,7 +2,6 @@
 ###### Or energy balls if you're into that
 ___
 ## Ingredients
-These will be converted into weights later, when I measure out their volume and record their weights.
 
 * 400g **old-fashioned oats**
 * 45g **wheat germ**
