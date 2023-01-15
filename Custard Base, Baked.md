@@ -31,6 +31,8 @@ ___
 8. Transfer mixture from the bowl into the rammekins.
 9. Fill the large baking dish with hot water up to about halfway on the rammekins.
 10. Bake in the oven for 30 - 40 minutes. Really, bake it until the custards are set. You can tell that when they aren't as liquidy when you shake them.
+11. Once you take the custards out, immediately remove them from the hot water bath to stop the cooking process.
+12. Let cool on the counter before covering and transfering to the fridge. Let them fully chill.
 
 ## Notes
 
