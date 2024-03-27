@@ -1,7 +1,4 @@
 # Baked Chocolate Custard
-
-___
-
 ## Ingredients
 
 * 200g heavy cream

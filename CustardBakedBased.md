@@ -1,7 +1,4 @@
 # Baked Custard Base
-
-___
-
 ## Ingredients
 
 * 200g whole milk

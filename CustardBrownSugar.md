@@ -1,7 +1,4 @@
 # Brown Sugar Custard
-
-___
-
 ## Ingredients
 
 * 200g cream

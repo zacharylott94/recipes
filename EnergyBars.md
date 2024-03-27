@@ -1,18 +1,17 @@
 # Energy Bars 
-###### Or energy balls if you're into that
-___
+Or energy balls if you're into that
 ## Ingredients
 
-* 400g **old-fashioned oats**
-* 45g **wheat germ**
-* 1g **kosher salt**
-* 65g **pecans**
-* 30g **almonds**
-* 115g **semi-sweet mini chocolate chips**
-* 115g **corn syrup**
-* 40g **molasses**
-* 11g **vanilla extract**
-* 375g **peanut butter**
+* 400g old-fashioned oats
+* 45g wheat germ
+* 1g kosher salt
+* 65g pecans
+* 30g almonds
+* 115g semi-sweet mini chocolate chips
+* 115g corn syrup
+* 40g molasses
+* 11g vanilla extract
+* 375g peanut butter
 
 ## Equipment
 * Large wooden spoon

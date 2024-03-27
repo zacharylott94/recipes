@@ -1,6 +1,5 @@
 # Garlic and Onion Sauce
-### General purpose sauce
-
+General purpose sauce
 ## Ingredients
 
 * 300g greek yogurt

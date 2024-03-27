@@ -1,7 +1,4 @@
 # Simple Syrup
-
-___
-
 ## Ingredients
 1:1 ratio by weight water:sugar
 

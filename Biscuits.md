@@ -1,7 +1,5 @@
 # Biscuits
 base recipe
-___
-
 ## Ingredients
 
 - 320g flour
